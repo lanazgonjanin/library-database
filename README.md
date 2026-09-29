@@ -54,7 +54,7 @@ This query associates reviews with the physical copies that customers had previo
 
 This query uses CTEs, joins, subqueries, aggregation, and cross joins.
 
-## SQL Concepts Demonstrated
+## SQL Concepts
 
 * Relational database design
 * `JOIN` and `LEFT JOIN`
